@@ -1,0 +1,14 @@
+body{background-color:#679289}
+body{font-size:45px;}
+body{text-align: center;}
+body {font-family: "Arial Black", Gadget, sans-serif;}
+h3{color: #F4C095;}
+h3{font-size:30px}
+h3 {font-family: "Typewriter", monospace;}
+h3 {text-align: center;}
+h4 {color: #EE2E31;}
+h4{font-size:20px}
+h4{text-align: center;}
+h5{font-size:20px}
+h5{text-align: center;}
+h6{text-align: right;}
